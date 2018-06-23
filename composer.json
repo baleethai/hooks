@@ -1,0 +1,11 @@
+{
+    "name": "tum/hooks",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Thinnakorn",
+            "email": "baleethai@gmail.com"
+        }
+    ],
+    "require": {}
+}
